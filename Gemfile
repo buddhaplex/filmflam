@@ -36,6 +36,9 @@ gem 'devise'
 # Simple_Form
 gem 'simple_form'
 
+# Carrier Wave
+gem 'carrierwave'
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
