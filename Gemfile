@@ -39,6 +39,9 @@ gem 'simple_form'
 # Carrier Wave
 gem 'carrierwave'
 
+# fog
+gem "fog", "~> 1.3.1"
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
