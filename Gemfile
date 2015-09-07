@@ -42,6 +42,9 @@ gem 'carrierwave'
 # fog
 gem "fog", "~> 1.3.1"
 
+# figaro
+gem "figaro"
+
 # MiniMagick
 gem 'mini_magick'
 
